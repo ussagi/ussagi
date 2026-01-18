@@ -16,8 +16,10 @@
 <br/>
 
 ### Language
+[![My Skills](https://skillicons.dev/icons?i=swift,apple,git,github,vscode)](https://skillicons.dev)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/> <br/>
 <br/>
 
 ### Utility
@@ -30,13 +32,20 @@
 
 ---
 
-![Ussagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussagi&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ussagi&show_icons=true&rank_icon=github&theme=radical)
 
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ussagi&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ussagi&layout=compact&theme=radical)
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 
