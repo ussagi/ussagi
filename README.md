@@ -33,9 +33,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ussagi&show_icons=true&rank_icon=github)
 
-
 ---
 
+## 🐍 My Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/본인ID/본인ID/output/github-snake.svg)
 
 
 
