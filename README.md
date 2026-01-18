@@ -1,8 +1,6 @@
 🎃
 안녕하세요!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussagi&show_icons=true)
-
 ## 💁‍♂️ About Me
 
 | 항목 | 내용 |
@@ -38,6 +36,10 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br/>
 <br/>
+
+---
+
+![ussagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussagi&show_icons=true)
 
 ---
 
