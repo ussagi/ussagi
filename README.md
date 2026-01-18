@@ -20,7 +20,7 @@
 <br/>
 
 ### Utility
-[![My Utilitys](https://skillicons.dev/icons?i=github,notion,slack,linux)](https://skillicons.dev)
+[![My Utilitys](https://skillicons.dev/icons?i=github,notion,Slack,linux)](https://skillicons.dev)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
@@ -28,12 +28,12 @@
 <br/>
 
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ussagi&hide_progress=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ussagi&show_icons=true&rank_icon=github)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ussagi&hide_progress=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ussagi&show_icons=true&rank_icon=github)
 
 
 ---
