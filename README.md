@@ -26,12 +26,8 @@
 <br/>
 
 ### Utility 🖋️
-[![My Languages](https://skillicons.dev/icons?i=flask,pytorch,kali,linux,bash,termianl)](https://skillicons.dev) <br/>
-[![My Languages](https://skillicons.dev/icons?i=apple,clion,github,notion,discord)](https://skillicons.dev) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br/>
+[![My utils](https://skillicons.dev/icons?i=flask,pytorch,kali,linux,bash,termianl)](https://skillicons.dev) <br/>
+[![My Programs](https://skillicons.dev/icons?i=apple,clion,github,notion,discord)](https://skillicons.dev) <br/>
 <br/>
 
 ---
