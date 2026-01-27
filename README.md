@@ -29,11 +29,11 @@
 <br/>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ussagi&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshinoresorts1&hide_progress=true)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ussagi&show_icons=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoshinoresorts1&show_icons=true&rank_icon=github)
 
 ---
 
