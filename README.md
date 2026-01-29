@@ -33,6 +33,12 @@
 
 ---
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{hoshinoresorts1}?pet-id=1" width="1000" height="120"/>
+</a>
+
+---
+
 ## 🐍 My Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/ussagi/ussagi/output/github-snake.svg)
 
