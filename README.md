@@ -33,7 +33,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoshinoresorts1&show_icons=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoshinoresorts&show_icons=true&rank_icon=github)
 
 ---
 
