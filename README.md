@@ -33,10 +33,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoshinoresorts1&show_icons=true&rank_icon=github)
-
----
-
 ## 🐍 My Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/ussagi/ussagi/output/github-snake.svg)
 
